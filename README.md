@@ -7,3 +7,4 @@ Description of Task1 file
  Commands listed in Task 1 file:
   - git clone
   - git init
+  - git status
