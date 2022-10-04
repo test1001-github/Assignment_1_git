@@ -8,3 +8,4 @@ Description of Task1 file
   - git clone
   - git init
   - git status
+  - git add
