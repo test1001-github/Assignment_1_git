@@ -9,4 +9,4 @@ Description of Task1 file
   - git init
   - git status
   - git add
-  - git lot
+  - git log
