@@ -12,3 +12,4 @@ Description of Task1 file
   - git log
   - git restore
   - git rebase
+  - git config
