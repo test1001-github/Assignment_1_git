@@ -11,3 +11,4 @@ Description of Task1 file
   - git add
   - git log
   - git restore
+  - git rebase
