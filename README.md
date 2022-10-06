@@ -10,3 +10,4 @@ Description of Task1 file
   - git status
   - git add
   - git log
+  - git restore
